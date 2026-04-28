@@ -39,7 +39,7 @@ services:
 
   ################################################################################
 
-  cdp-node-backend-template:
+  econtrol-backend:
     build:
       context: .
       target: development
