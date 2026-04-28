@@ -1,6 +1,6 @@
-# econtrol-backend
+# eControl Backend
 
-Core delivery platform Node.js Backend Template.
+eCITES - Process a permit (Backend)
 
 - [Requirements](#requirements)
   - [Node.js](#nodejs)
